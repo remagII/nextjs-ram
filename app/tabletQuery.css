@@ -1,0 +1,23 @@
+@media screen and (min-width: 768px) {
+   
+    .hero{
+        flex-direction: row;
+        gap: 24px;
+    }
+
+    .hero-text{
+        text-align: start;
+        align-items: start;
+    }
+
+   .img-cat{
+    height: 200px;
+   }
+
+
+  }
+
+
+  @media screen and (min-width: 1024px) {
+
+  }
